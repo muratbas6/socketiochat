@@ -1,0 +1,23 @@
+{
+  "name": "socketchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muratbas6/socketiochat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muratbas6/socketiochat/issues"
+  },
+  "homepage": "https://github.com/muratbas6/socketiochat#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.1.1"
+  }
+}
